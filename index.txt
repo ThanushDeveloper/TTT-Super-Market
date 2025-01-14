@@ -1,1 +1,3 @@
 hello thanush hello
+i am a frontend developer 
+i amd a back end
